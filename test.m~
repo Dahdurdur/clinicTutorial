@@ -1,0 +1,4 @@
+x = sin(linspace(0, 100));
+y = cos();
+
+impulse_response(x, y, 1);
